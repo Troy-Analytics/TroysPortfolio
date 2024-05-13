@@ -1,5 +1,5 @@
 body {
-    background-image: url(/assests/background.jpg);
+    background-image: url(assests/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center; /* Center background image horizontally and vertically */
