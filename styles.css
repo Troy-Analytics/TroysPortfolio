@@ -93,8 +93,8 @@ body {
 .hometext, .homemessage {
     text-align: center;
     font-size: x-large;
-    padding: 70em;
-    margin: 70em;
+    padding: 20em;
+    margin: 20em;
 }
 
 span {
